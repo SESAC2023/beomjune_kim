@@ -2,23 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8f10251-a7d4-4b91-bb93-060b375fee0d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/BOJ/12. 브루트포스/19532.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/12. 브루트포스/2231.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/12. 브루트포스/2798.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/12. 브루트포스/2839.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/14. 집합과 맵/10815.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/14. 집합과 맵/10815_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/14. 집합과 맵/10816.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/14. 집합과 맵/14425.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/14. 집합과 맵/1620.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/14. 집합과 맵/7785.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/1463.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/31. 그래프와 순회/2178.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/31. 그래프와 순회/24444_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/31. 그래프와 순회/24479_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/31. 그래프와 순회/2667.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ/25. 그리디알고리즘/11047.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ/25. 그리디알고리즘/11399.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ/25. 그리디알고리즘/13305.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ/25. 그리디알고리즘/1541.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ/25. 그리디알고리즘/1931.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ/31. 그래프와 순회/2606_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/31. 그래프와 순회/1260.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ/31. 그래프와 순회/1260.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/31. 그래프와 순회/24444_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ/31. 그래프와 순회/24444_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,11 +44,12 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/BOJ" />
       <recent name="$PROJECT_DIR$/BOJ/14. 집합과 맵" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.2667">
-    <configuration name="14425" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.13305">
+    <configuration name="13305" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="beomjune_kim" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,11 +57,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/14. 집합과 맵" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/25. 그리디알고리즘" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/14. 집합과 맵/14425.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/25. 그리디알고리즘/13305.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,6 +112,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="24444_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="beomjune_kim" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/31. 그래프와 순회" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/31. 그래프와 순회/24444_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="2667" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="beomjune_kim" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -141,34 +154,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="7785" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="beomjune_kim" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/14. 집합과 맵" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/14. 집합과 맵/7785.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.13305" />
+        <item itemvalue="Python.24444_2" />
         <item itemvalue="Python.2667" />
         <item itemvalue="Python.1463" />
         <item itemvalue="Python.1620" />
-        <item itemvalue="Python.7785" />
-        <item itemvalue="Python.14425" />
       </list>
     </recent_temporary>
   </component>
