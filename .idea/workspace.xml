@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8f10251-a7d4-4b91-bb93-060b375fee0d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/BOJ/25. 그리디알고리즘/11047.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/25. 그리디알고리즘/11399.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/25. 그리디알고리즘/13305.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/25. 그리디알고리즘/1541.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/25. 그리디알고리즘/1931.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/31. 그래프와 순회/2606_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ/22. 백트래킹/15649.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ/22. 백트래킹/15650.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ/22. 백트래킹/15651.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ/22. 백트래킹/15652.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/31. 그래프와 순회/24444_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ/31. 그래프와 순회/24444_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +45,7 @@
       <recent name="$PROJECT_DIR$/BOJ/14. 집합과 맵" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.13305">
+  <component name="RunManager" selected="Python.15652">
     <configuration name="13305" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="beomjune_kim" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -70,7 +67,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1463" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="15649" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="beomjune_kim" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -78,11 +75,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/22. 백트래킹" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/1463.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/22. 백트래킹/15649.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,7 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1620" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="15650" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="beomjune_kim" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -99,11 +96,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/14. 집합과 맵" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/22. 백트래킹" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/14. 집합과 맵/1620.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/22. 백트래킹/15650.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="24444_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="15651" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="beomjune_kim" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -120,11 +117,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/31. 그래프와 순회" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/22. 백트래킹" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/31. 그래프와 순회/24444_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/22. 백트래킹/15651.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2667" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="15652" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="beomjune_kim" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -141,11 +138,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/31. 그래프와 순회" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/22. 백트래킹" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/31. 그래프와 순회/2667.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/22. 백트래킹/15652.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.15652" />
+        <item itemvalue="Python.15651" />
+        <item itemvalue="Python.15650" />
+        <item itemvalue="Python.15649" />
         <item itemvalue="Python.13305" />
-        <item itemvalue="Python.24444_2" />
-        <item itemvalue="Python.2667" />
-        <item itemvalue="Python.1463" />
-        <item itemvalue="Python.1620" />
       </list>
     </recent_temporary>
   </component>
