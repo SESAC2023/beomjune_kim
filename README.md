@@ -17,3 +17,12 @@
 ## beomjune_kim 의 이것저것 
 
 https://davidkim2028.notion.site/BJK-8a0c882aebb04502ba993194f77a7f6c
+
+
+
+# BaekJoon Tier
+<div align=center>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdavid2355)](https://solved.ac/kdavid2355/)
+
+</div>
